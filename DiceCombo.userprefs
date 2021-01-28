@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DictionaryManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DictionaryManager.cs" Line="222" Column="30" />
+      <File FileName="Assets\Scripts\CampaignManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\UiManager.cs" Line="139" Column="23" />
+      <File FileName="Assets\Json\campaign.json" Line="1" Column="1" />
+      <File FileName="Assets\Json\summoners.json" Line="1" Column="1" />
+      <File FileName="Assets\Json\enemies.json" Line="1" Column="1" />
+      <File FileName="Assets\Json\etats.json" Line="1" Column="1" />
+      <File FileName="Assets\Json\actions.json" Line="472" Column="22" />
+      <File FileName="Assets\Scripts\Card\CardPanel.cs" Line="141" Column="15" />
+      <File FileName="Assets\Scripts\UI\Popup\PopupManager.cs" Line="326" Column="59" />
+      <File FileName="Assets\Scripts\UI\Popup\KeywordsPanel.cs" Line="39" Column="99" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,130 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "idOriginal": 1,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 4,
+            "nbItemSlots": 4,
+            "summonerName": "Nipal",
+            "idAvatar": "E_1",
+            "pvMax": 25,
+            "pv": 25,
+            "force": 3,
+            "armure": 0,
+            "L_skills": [
+                1,
+                1,
+                29,
+                1
+            ],
+            "L_talents": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "L_etats": [],
+            "characterType": 3
+        },
+        {
+            "id": 2,
+            "idOriginal": 2,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 4,
+            "nbItemSlots": 4,
+            "summonerName": "Gorrier",
+            "idAvatar": "E_2",
+            "pvMax": 35,
+            "pv": 35,
+            "force": 5,
+            "armure": 0,
+            "L_skills": [
+                1,
+                26,
+                1,
+                1
+            ],
+            "L_talents": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "L_etats": [],
+            "characterType": 3
+        },
+        {
+            "id": 3,
+            "idOriginal": 3,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 2,
+            "nbSkillSlots": 4,
+            "nbItemSlots": 4,
+            "summonerName": "Aluka",
+            "idAvatar": "E_3",
+            "pvMax": 55,
+            "pv": 55,
+            "force": 5,
+            "armure": 5,
+            "L_skills": [
+                31,
+                26,
+                30,
+                32
+            ],
+            "L_talents": [
+                20,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "L_etats": [],
+            "characterType": 3
+        },
+        {
+            "id": 4,
+            "idOriginal": 4,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 2,
+            "nbSkillSlots": 6,
+            "nbItemSlots": 4,
+            "summonerName": "Artaal",
+            "idAvatar": "E_4",
+            "pvMax": 200,
+            "pv": 200,
+            "force": 15,
+            "armure": 10,
+            "L_skills": [
+                31,
+                26,
+                30,
+                32,
+                24,
+                31
+            ],
+            "L_talents": [
+                18,
+                18,
+                18,
+                18,
+                0,
+                0
+            ],
+            "L_etats": [],
+            "characterType": 3
+        }
+    ]
+}

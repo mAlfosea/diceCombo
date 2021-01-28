@@ -1,0 +1,106 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "idOriginal": 1,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "Djinn Rouge",
+            "idAvatar": "S_1",
+            "L_skills": [
+                3,
+                0
+            ],
+            "L_talents": [5],
+            "L_etats": [],
+            "characterType": 2
+        },
+        {
+            "id": 2,
+            "idOriginal": 2,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "Djinn Vert",
+            "idAvatar": "S_2",
+            "L_skills": [
+                4,
+                0
+            ],
+            "L_talents": [6],
+            "L_etats": [],
+            "characterType": 2
+        },
+        {
+            "id": 3,
+            "idOriginal": 3,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "Djinn Bleu",
+            "idAvatar": "S_3",
+            "L_skills": [
+                5,
+                0
+            ],
+            "L_talents": [7],
+            "L_etats": [],
+            "characterType": 2
+        },
+        {
+            "id": 4,
+            "idOriginal": 4,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "Djinn Noir",
+            "idAvatar": "S_4",
+            "L_skills": [
+                6,
+                0
+            ],
+            "L_talents": [8],
+            "L_etats": [],
+            "characterType": 2
+        },
+        {
+            "id": 5,
+            "idOriginal": 5,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "ArDjinn",
+            "idAvatar": "S_5",
+            "L_skills": [
+                1,
+                2
+            ],
+            "L_talents": [22],
+            "L_etats": [],
+            "characterType": 2
+        },
+        {
+            "id": 6,
+            "idOriginal": 6,
+            "tier": 1,
+            "nbDiceMax": 3,
+            "nbDice": 1,
+            "nbSkillSlots": 2,
+            "supportName": "Offensor",
+            "idAvatar": "S_6",
+            "L_skills": [
+                1,
+                2
+            ],
+            "L_talents": [17],
+            "L_etats": [],
+            "characterType": 2
+        }
+    ]
+}

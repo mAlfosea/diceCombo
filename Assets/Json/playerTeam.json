@@ -1,0 +1,78 @@
+{
+    "Items": [
+        {
+            "mainSummoner": {
+                "id": 1,
+                "idOriginal": 1,
+                "tier": 3,
+                "nbDiceMax": 2,
+                "nbDice": 1,
+                "nbSkillSlots": 5,
+                "nbItemSlots": 4,
+                "summonerName": "Kara",
+                "idAvatar": "M_1",
+                "pvMax": 50,
+                "pv": 26,
+                "force": 0,
+                "armure": 0,
+                "L_skills": [
+                    1,
+                    29,
+                    21,
+                    1,
+                    1
+                ],
+                "L_talents": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "L_etats": [],
+                "characterType": 1
+            },
+            "supports": [
+                {
+                    "id": 5,
+                    "idOriginal": 5,
+                    "tier": 1,
+                    "nbDiceMax": 1,
+                    "nbDice": 1,
+                    "nbSkillSlots": 2,
+                    "supportName": "ArDjinn",
+                    "idAvatar": "S_5",
+                    "L_skills": [
+                        1,
+                        2
+                    ],
+                    "L_talents": [
+                        22
+                    ],
+                    "L_etats": [],
+                    "characterType": 2
+                },
+                {
+                    "id": 6,
+                    "idOriginal": 6,
+                    "tier": 1,
+                    "nbDiceMax": 1,
+                    "nbDice": 1,
+                    "nbSkillSlots": 2,
+                    "supportName": "Offensor",
+                    "idAvatar": "S_6",
+                    "L_skills": [
+                        1,
+                        2
+                    ],
+                    "L_talents": [
+                        17
+                    ],
+                    "L_etats": [],
+                    "characterType": 2
+                }
+            ]
+        }
+    ]
+}

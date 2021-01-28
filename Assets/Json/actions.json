@@ -1,0 +1,1196 @@
+{
+    "Items": [
+		{
+            "id": 0,
+            "name": "Repos",
+            "description": "J'ai un petit creux je vais faire une pause pour manger",
+			"price": 10,
+            "type": 5,
+            "color": 5,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Attaque",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 45,
+            "type": 1,
+            "color": 5,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 5,
+					"typeDmg": 1,
+					"colorDmg": 5,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 2,
+            "name": "Défense",
+            "description": "Gagne [dmg_id_0] [DEFENSE]",
+			"price": 45,
+            "type": 2,
+            "color": 5,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 2,
+					"typeDmg": 2,
+					"colorDmg": 5,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Lame Rouge",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 30,
+            "type": 1,
+            "color": 1,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 5,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lame Verte",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 30,
+            "type": 1,
+            "color": 2,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 5,
+					"typeDmg": 1,
+					"colorDmg": 2,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Lame Bleue",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 30,
+            "type": 1,
+            "color": 3,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 5,
+					"typeDmg": 1,
+					"colorDmg": 3,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Lame Noire",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 30,
+            "type": 1,
+            "color": 4,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 5,
+					"typeDmg": 1,
+					"colorDmg": 4,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 7,
+            "name": "Défense Rouge",
+            "description": "Gagne [dmg_id_0] [DEFENSE]",
+			"price": 30,
+            "type": 2,
+            "color": 1,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 3,
+					"typeDmg": 2,
+					"colorDmg": 1,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 8,
+            "name": "Défense Verte",
+            "description": "Gagne [dmg_id_0] [DEFENSE]",
+			"price": 30,
+            "type": 2,
+            "color": 2,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 3,
+					"typeDmg": 2,
+					"colorDmg": 2,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 9,
+            "name": "Défense Bleue",
+            "description": "Gagne [dmg_id_0] [DEFENSE]",
+			"price": 30,
+            "type": 2,
+            "color": 3,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 3,
+					"typeDmg": 2,
+					"colorDmg": 3,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 10,
+            "name": "Défense Noire",
+            "description": "Gagne [dmg_id_0] [DEFENSE]",
+			"price": 30,
+            "type": 2,
+            "color": 4,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 3,
+					"typeDmg": 2,
+					"colorDmg": 4,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 11,
+            "name": "Coup double",
+            "description": "Inflige [dmg_id_0] dégats [dmg_count] fois",
+			"price": 45,
+            "type": 1,
+            "color": 1,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 3,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 3,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 12,
+            "name": "Frappe Rageuse",
+            "description": "Perds [dmg_id_0] PV pour infliger [dmg_id_1] dégats",
+			"price": 35,
+            "type": 1,
+            "color": 4,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "-",
+					"damage": 2,
+					"typeDmg": 1,
+					"colorDmg": 4,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 8,
+					"typeDmg": 1,
+					"colorDmg": 4,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 13,
+            "name": "Lance Bouclier",
+            "description": "Inflige [dmg_id_0] dégats puis gagne [dmg_id_1] [DEFENSE]",
+			"price": 60,
+            "type": 1,
+            "color": 2,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 2,
+					"typeDmg": 1,
+					"colorDmg": 2,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 2,
+					"typeDmg": 2,
+					"colorDmg": 2,
+					"idAnim": "2",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 14,
+            "name": "Lame Extensible",
+            "description": "Inflige [dmg_id_0] dégats à tous les ennemis",
+			"price": 55,
+            "type": 1,
+            "color": 1,
+            "targetType": 3,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 3,
+      				"modulateur": "-",
+					"damage": 3,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 15,
+            "name": "Coups enchainés",
+            "description": "Inflige [dmg_id_0] dégats puis [dmg_id_1] dégats si la précédente carte était une Attaque",
+			"price": 55,
+            "type": 1,
+            "color": 3,
+            "targetType": 2,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 3,
+					"typeDmg": 1,
+					"colorDmg": 3,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 4,
+					"typeDmg": 1,
+					"colorDmg": 3,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					{
+							"target": 1,
+							"type": 3,
+							"mod": 2,
+							"value": 1
+						}
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 16,
+            "name": "Frappe Galvanisante",
+            "description": "Inflige [dmg_id_0] dégats et donne [etat_id_0] [FORCE] pendant 1 tour",
+			"price": 60,
+            "type": 1,
+            "color": 2,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 2,
+					"typeDmg": 1,
+					"colorDmg": 2,
+					"idAnim": "1",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 10,
+							"duration": 0,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 17,
+            "name": "Contre coup",
+            "description": "Inflige [dmg_id_0] dégats puis [dmg_id_1] dégats si la précédente carte était une Défense",
+			"price": 55,
+            "type": 1,
+            "color": 3,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 3,
+					"typeDmg": 1,
+					"colorDmg": 3,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 4,
+					"typeDmg": 1,
+					"colorDmg": 3,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					{
+							"target": 1,
+							"type": 3,
+							"mod": 2,
+							"value": 2
+						}
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 18,
+            "name": "Touche Ame",
+            "description": "Inflige [dmg_id_0] dégats et -[etat_id_0] [FORCE] pendant 1 tour",
+			"price": 35,
+            "type": 1,
+            "color": 4,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 2,
+					"typeDmg": 1,
+					"colorDmg": 4,
+					"idAnim": "1",
+					"etats": [
+					{
+							"target": 2,
+      						"modulateur": "+",
+							"idEtat": 11,
+							"duration": 0,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 19,
+            "name": "Appel au repli",
+            "description": "Gagne [dmg_id_0] [DEFENSE] et [etat_id_0] [ROBUSTESSE] pendant 1 tour",
+			"price": 60,
+            "type": 2,
+            "color": 2,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 3,
+					"typeDmg": 2,
+					"colorDmg": 2,
+					"idAnim": "2",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 12,
+							"duration": 0,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 20,
+            "name": "Défense maudite",
+            "description": "Gagne [dmg_id_0] [DEFENSE] et perds [etat_count] [ROUILLE] pendant 2 tour",
+			"price": 45,
+            "type": 2,
+            "color": 4,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 6,
+					"typeDmg": 2,
+					"colorDmg": 4,
+					"idAnim": "2",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 13,
+							"duration": 2,
+							"value": 0
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 21,
+            "name": "Motivation !",
+            "description": "Gagne [etat_id_0] [FORCE] pendant ce tour",
+			"price": 40,
+            "type": 3,
+            "color": 5,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 3,
+					"colorDmg": 5,
+					"idAnim": "3",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 10,
+							"duration": 0,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 22,
+            "name": "A l'assaut",
+            "description": "Gagne [etat_id_0] [FORCE] pendant ce tour",
+			"price": 35,
+            "type": 3,
+            "color": 1,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 3,
+					"colorDmg": 1,
+					"idAnim": "3",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 10,
+							"duration": 0,
+							"value": 3
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 23,
+            "name": "Roulade",
+            "description": "Gagne [dmg_id_0] [DEFENSE] et relance le dés du joueur",
+			"price": 65,
+            "type": 2,
+            "color": 1,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 2,
+					"typeDmg": 2,
+					"colorDmg": 1,
+					"idAnim": "2",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 14,
+							"duration": 0,
+							"value": 3
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 24,
+            "name": "Cuirasse piquante",
+            "description": "Gagne [dmg_id_0] [DEFENSE] et [RIPOSTE] pendant 1 tour",
+			"price": 75,
+            "type": 2,
+            "color": 1,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 2,
+					"typeDmg": 2,
+					"colorDmg": 1,
+					"idAnim": "2",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 15,
+							"duration": 0,
+							"value": 0
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 25,
+            "name": "Défense totale",
+            "description": "Gagne [dmg_id_0] [DEFENSE] et défausse une carte aléatoire",
+			"price": 60,
+            "type": 2,
+            "color": 4,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 8,
+					"typeDmg": 2,
+					"colorDmg": 4,
+					"idAnim": "2",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 16,
+							"duration": -1,
+							"value": 0
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 26,
+            "name": "Renforcement",
+            "description": "Génère [etat_count] [FORCE] à chaque début de tour",
+			"price": 50,
+            "type": 4,
+            "color": 1,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 4,
+					"colorDmg": 1,
+					"idAnim": "4",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 17,
+							"duration": -1,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 27,
+            "name": "Consolidation",
+            "description": "Génère [etat_count] [DEFENSE] à chaque début de tour",
+			"price": 60,
+            "type": 4,
+            "color": 0,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 4,
+					"colorDmg": 0,
+					"idAnim": "4",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 18,
+							"duration": -1,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 28,
+            "name": "Déflagration",
+            "description": "A chaque début de tour, perds 1 PV et inflige [etat_count] dégats à tous les ennemis",
+			"price": 50,
+            "type": 4,
+            "color": 4,
+            "targetType": 1,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 1,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 4,
+					"colorDmg": 4,
+					"idAnim": "4",
+					"etats": [
+					{
+							"target": 1,
+      						"modulateur": "+",
+							"idEtat": 19,
+							"duration": -1,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 29,
+            "name": "Cri d'intimidation",
+            "description": "Inflige 1 [FAIBLESSE] à l'adversaire",
+			"price": 50,
+            "type": 3,
+            "color": 5,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 3,
+					"colorDmg": 5,
+					"idAnim": "3",
+					"etats": [
+					{
+							"target": 2,
+      						"modulateur": "+",
+							"idEtat": 11,
+							"duration": 0,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 30,
+            "name": "Coup double II",
+            "description": "Inflige [dmg_id_0] dégats [dmg_count] fois",
+			"price": 90,
+            "type": 1,
+            "color": 1,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 6,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			},
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 6,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 31,
+            "name": "Frappe franche",
+            "description": "Inflige [dmg_id_0] dégats",
+			"price": 80,
+            "type": 1,
+            "color": 1,
+            "targetType": 2,
+            "characterUsage": 1,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "-",
+					"damage": 11,
+					"typeDmg": 1,
+					"colorDmg": 1,
+					"idAnim": "1",
+					"etats": [
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        },
+		{
+            "id": 32,
+            "name": "Maléfice",
+            "description": "Inflige [etat_count] [ENTRAVE] pendant 1 tour",
+			"price": 80,
+            "type": 3,
+            "color": 1,
+            "targetType": 2,
+            "characterUsage": 2,
+            "combatActions": [
+                {
+      				"target": 2,
+      				"modulateur": "+",
+					"damage": 0,
+					"typeDmg": 3,
+					"colorDmg": 4,
+					"idAnim": "3",
+					"etats": [
+					{
+							"target": 2,
+      						"modulateur": "+",
+							"idEtat": 21,
+							"duration": 1,
+							"value": 1
+						}
+					],
+					"conditions": [
+					]
+    			}
+            ],
+            "idUpgrade": 1,
+            "upgradeRequirements": [
+                {
+      				"idItem": 1,
+      				"itemAmount": 100
+    			}
+            ]
+        }
+    ]
+}

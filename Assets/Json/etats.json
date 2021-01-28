@@ -1,0 +1,244 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "name": "Affinité Rouge",
+            "description": "Augmente les dégats des cartes rouges de [value]",
+            "duration": 1,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 2,
+            "name": "Affinité Verte",
+            "description": "Augmente les dégats des cartes vertes de [value]",
+            "duration": 1,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 3,
+            "name": "Affinité Bleue",
+            "description": "Augmente les dégats des cartes bleues de [value]",
+            "duration": 1,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 4,
+            "name": "Affinité Noire",
+            "description": "Augmente les dégats des cartes noire de [value]",
+            "duration": 1,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 5,
+            "name": "Force Rouge",
+            "description": "Augmente les dégats des cartes rouges de [value]",
+            "duration": 0,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 6,
+            "name": "Force Verte",
+            "description": "Augmente les dégats des cartes vertes de [value]",
+            "duration": 0,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 7,
+            "name": "Force Bleue",
+            "description": "Augmente les dégats des cartes bleues de [value]",
+            "duration": 0,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 8,
+            "name": "Force Noire",
+            "description": "Augmente les dégats des cartes noire de [value]",
+            "duration": 0,
+            "value": 1,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 9,
+            "name": "Point Faible",
+            "description": "Reçoit 50% de dégats en plus",
+            "duration": 0,
+            "value": 0,
+            "turnStateApply": 2,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 10,
+            "name": "Force",
+            "description": "Augmente les dégats des attaques de [value]",
+            "duration": 1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 11,
+            "name": "Faiblesse",
+            "description": "Diminue les dégats des attaques de [value]",
+            "duration": 1,
+            "value": 0,
+            "turnStateApply": 2,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 12,
+            "name": "Robustesse",
+            "description": "Augmente l'amure gagnée de [value]",
+            "duration": 1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 13,
+            "name": "Rouillé",
+            "description": "Diminue l'armure reçu de 25%",
+            "duration": 0,
+            "value": 0,
+            "turnStateApply": 2,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 14,
+            "name": "Relance de dés",
+            "description": "Relance le dés du personnage",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 0,
+            "isShowable": false,
+            "isRemovable": true
+        },
+        {
+            "id": 15,
+            "name": "Riposte",
+            "description": "Retourne 30% des dégats reçus",
+            "duration": 1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 16,
+            "name": "Defausse",
+            "description": "Défause une carte aléatoire",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 0,
+            "isShowable": false,
+            "isRemovable": true
+        },
+        {
+            "id": 17,
+            "name": "Renforcement",
+            "description": "Donne [value] [FORCE] à chaque début de tour",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 18,
+            "name": "Consolidation",
+            "description": "Donne [value] [DEFENSE] à chaque début de tour",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 19,
+            "name": "Déflagration",
+            "description": "Inflige [value] dégats à tous les ennemis à chaque début de tour",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 20,
+            "name": "Lien vampirique",
+            "description": "Récupère 30% des dégats infligés en PV",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 21,
+            "name": "Entrave",
+            "description": "Bloque un dés",
+            "duration": 0,
+            "value": 0,
+            "turnStateApply": 2,
+            "isShowable": true,
+            "isRemovable": true
+        },
+        {
+            "id": 22,
+            "name": "Armure",
+            "description": "Augmente l'amure gagnée de [value]",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": true,
+            "isRemovable": false
+        },
+        {
+            "id": 23,
+            "name": "Stat_Force",
+            "description": "Donne [value] [FORCE] à chaque début de tour",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": false,
+            "isRemovable": false
+        },
+        {
+            "id": 24,
+            "name": "Stat_Armure",
+            "description": "Augmente l'amure gagnée de [value]",
+            "duration": -1,
+            "value": 0,
+            "turnStateApply": 1,
+            "isShowable": false,
+            "isRemovable": false
+        }
+    ]
+}

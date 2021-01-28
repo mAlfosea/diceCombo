@@ -1,0 +1,39 @@
+{
+    "Items": [
+        {
+            "enemies": [
+                {
+                    "id": 1,
+                    "idOriginal": 1,
+                    "tier": 1,
+                    "nbDiceMax": 3,
+                    "nbDice": 1,
+                    "nbSkillSlots": 4,
+                    "nbItemSlots": 4,
+                    "summonerName": "Nipal",
+                    "idAvatar": "E_1",
+                    "pvMax": 25,
+                    "pv": 25,
+                    "force": 3,
+                    "armure": 0,
+                    "L_skills": [
+                        1,
+                        1,
+                        29,
+                        1
+                    ],
+                    "L_talents": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "L_etats": [],
+                    "characterType": 3
+                }
+            ]
+        }
+    ]
+}

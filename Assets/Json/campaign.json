@@ -1,0 +1,29 @@
+{
+    "Items": [
+        {
+            "bossTeamId": 0,
+            "monstersAvailableId": [
+                0,
+                0,
+                2
+            ],
+            "cardsAvailableId": [
+                2,
+                31,
+                4,
+                6,
+                18
+            ],
+            "day": 45,
+            "gold": 315,
+            "soul": 16,
+            "goldReward": 20,
+            "soulReward": 1,
+            "daysToRemove": 1,
+            "actionDone": false,
+            "combatEnded": false,
+            "isBossFight": false,
+            "isCampaignGenerated": true
+        }
+    ]
+}

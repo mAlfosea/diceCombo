@@ -1,0 +1,66 @@
+{
+    "Items": [ 
+        {
+            "group": [
+                1
+            ], 
+			"goldReward": 20,
+			"soulReward": 1
+        }, 
+        {
+            "group": [
+                2
+            ], 
+			"goldReward": 40,
+			"soulReward": 2
+        }, 
+        {
+            "group": [
+                1,
+				1
+            ], 
+			"goldReward": 45,
+			"soulReward": 2
+        }, 
+        {
+            "group": [
+                1,
+				2
+            ], 
+			"goldReward": 75,
+			"soulReward": 3
+        },
+        {
+            "group": [
+                2,
+				2
+            ], 
+			"goldReward": 90,
+			"soulReward": 5
+        },
+        {
+            "group": [
+                1,
+				2,
+				2
+            ], 
+			"goldReward": 220,
+			"soulReward": 7
+        },
+        {
+            "group": [
+                3
+            ], 
+			"goldReward": 200,
+			"soulReward": 4
+        },
+        {
+            "group": [
+                3,
+				1
+            ], 
+			"goldReward": 250,
+			"soulReward": 6
+        }
+    ]
+}

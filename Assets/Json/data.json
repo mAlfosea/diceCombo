@@ -1,0 +1,13 @@
+{
+    "Items": [
+        {
+            "id": 1,
+            "summonerName": "Tortank",
+            "pvMax": 100,
+            "L_skills": [
+                2,
+                3
+            ]
+        }
+    ]
+}
